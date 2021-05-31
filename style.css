@@ -41,5 +41,12 @@ float: left;
 }
 li:hover{
 background-color:white;
+}
+#about {
+    padding: 50px;
+    background: linear-gradient(#ffffff 0%, #0af0b3 100%);
 
+}
+#wasup{
+font-family: 'Cedarville Cursive', cursive;    
 }
